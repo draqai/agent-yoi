@@ -1,8 +1,8 @@
 {
-  "name": "@v-idol/vidol-agent-lilia",
+  "name": "agent-yoi",
   "version": "1.0.0",
   "private": false,
-  "description": "Vidol Agent Lilia",
+  "description": "Agent YOI",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
